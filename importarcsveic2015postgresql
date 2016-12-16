@@ -1,0 +1,1 @@
+copy inegi.eic2015 from 'F:\cartografia\INEGI\encuestaIntercensal2015\jal\TR_PERSONA14.CSV' delimiter ',' CSV HEADER encoding 'latin1';
